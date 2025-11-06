@@ -21,7 +21,8 @@ export default function Home() {
             .
           </li>
           <li>Save and see your changes instantly.</li>
-          <li><h2> ¡THE WORLD IS YOUR! </h2></li>
+          <li>¡THE WORLD IS YOUR!</li>
+          <li>PM2 RUNS</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
