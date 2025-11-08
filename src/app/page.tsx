@@ -23,6 +23,7 @@ export default function Home() {
           <li>Save and see your changes instantly.</li>
           <li>¡THE WORLD IS YOUR!</li>
           <li>PM2 RUNS</li>
+          <li>TEST</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
