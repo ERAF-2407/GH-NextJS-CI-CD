@@ -23,7 +23,7 @@ export default function Home() {
           <li>Save and see your changes instantly.</li>
           <li>¡THE WORLD IS YOUR!</li>
           <li>PM2 RUNS</li>
-          <li>TEST</li>
+          <li>TEST!</li>
           <li>TESTING</li>
         </ol>
 
